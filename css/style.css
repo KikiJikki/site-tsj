@@ -1,0 +1,33 @@
+form {
+ width: 500px;
+}
+
+
+table {
+  margin: 0 auto;
+  font-family: sans-serif;
+  text-align: center;
+  border-collaple: collapse;
+  border-spacing: 5px;
+  background: #ece9e0;
+  color: #656666;
+  border: 16px solid #ece9e0;
+  border-radius: 20px;
+
+}
+th {
+ font-size: 18px;
+ padding: 10px;
+ background: #afcde7;
+}
+
+td {
+  background: #afcde7;
+  padding: 10px;
+}
+
+select {
+height: 35px;
+margin: 10px 15px 15px 0px;
+box-sizing: border-box;
+}
